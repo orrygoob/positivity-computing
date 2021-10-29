@@ -1,3 +1,11 @@
 html {
     color: black;
 }
+
+#twitter-div {
+    position: fixed;
+}
+
+body {
+    padding-top: 65px;
+}
