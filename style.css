@@ -11,3 +11,20 @@ html, body {
 body {
     padding-top: 65px;
 }
+
+.figure {
+  margin-left: 1em;
+  width: 20vw;
+  float: right;
+  dispay: inline-block;
+  border-radius: 5px;
+  background-color: #292f33;
+}
+
+.figure-img {
+  border-radius: 5px 5px 0em 0em;
+}
+
+.figure-caption {
+  padding: 0em 1em 1em 1em;
+}
