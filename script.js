@@ -4,7 +4,7 @@ const VALID_PAGES = ["home", "environment", "health", "history", "wildlife"]; //
 function loadPage(pageId) {
     
     if (VALID_PAGES.indexOf(pageId) != -1) {
-        $("#content-div").load(`page-${pageId}.html`);
+        document.getElementById("content-frame").src = `page-${pageId}.html`;
     }
 }
 
