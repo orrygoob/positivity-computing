@@ -1,9 +1,11 @@
-html {
-    color: black;
+html, body {
+    color: #c9d1d9;
+    background-color: #0d1117;
 }
 
 #twitter-div {
     position: fixed;
+    margin-right: 15px;
 }
 
 body {
