@@ -31,6 +31,26 @@ body {
   color: #a3afd1;
   text-decoration: none;
 }
+.thumbnail {
+    background-color: #dedede;
+    border-radius: 1em;
+    color: #101010;
+    height: 100%;
+}
+.thumbnail .top {
+    height: 12em;
+}
+.thumbnail img {
+    width: 100%;
+    margin-bottom: 1em;
+    border-radius: 1em 1em 0 0;
+}
+.thumbnail__caption {
+    padding: 1em;
+}
+.col-sm-3 {
+    margin-bottom: 1em;
+}
 
 @media only screen and (max-width: 767px) {
   .figure {
