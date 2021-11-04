@@ -1,10 +1,10 @@
 html, body {
-    color: #c9d1d9;
-    background-color: #0d1117;
+  color: #c9d1d9;
+  background-color: #0d1117;
 }
 
 body {
-    padding-top: 65px;
+  padding-top: 65px;
 }
 
 .row {
@@ -26,12 +26,10 @@ body {
 .figure-caption {
   padding: 0em 1em 1em 1em;
 }
-.abouttheauthor {
-    width: 50%;
-}
+
 .abouttheauthor a {
-    color: #575757;
-    text-decoration: none;
+  color: #a3afd1;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 767px) {
@@ -41,5 +39,5 @@ body {
 }
 
 .twitter-timeline {
-    height: 80vh !important;
+  height: 80vh !important;
 }
