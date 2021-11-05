@@ -1,5 +1,5 @@
-Interest of Content: Excellent
-Consistency and quality of visual presentation: Exemplary
-Quality of written presentation: Very Good
-Validity of HTML: Perfect
-Evidence of Collaboration: Perfect
+- Interest of Content: Excellent
+- Consistency and quality of visual presentation: Exemplary
+- Quality of written presentation: Very Good
+- Validity of HTML: Perfect
+- Evidence of Collaboration: Perfect
